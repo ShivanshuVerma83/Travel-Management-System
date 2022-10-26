@@ -5,3 +5,10 @@ Age: 1
 Mobile Number: 1
 Address: 1
 Gender: 1
+for second customer
+Customer ID: 1
+Name: 1
+Age: 1
+Mobile Number: 1
+Address: 1
+Gender: 1
